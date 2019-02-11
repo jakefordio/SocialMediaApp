@@ -1,0 +1,14 @@
+C:\SocialMediaApp\SocialMediaApp.API\bin\Debug\netcoreapp2.2\SocialMediaApp.API.deps.json
+C:\SocialMediaApp\SocialMediaApp.API\bin\Debug\netcoreapp2.2\SocialMediaApp.API.runtimeconfig.json
+C:\SocialMediaApp\SocialMediaApp.API\bin\Debug\netcoreapp2.2\SocialMediaApp.API.runtimeconfig.dev.json
+C:\SocialMediaApp\SocialMediaApp.API\bin\Debug\netcoreapp2.2\SocialMediaApp.API.dll
+C:\SocialMediaApp\SocialMediaApp.API\bin\Debug\netcoreapp2.2\SocialMediaApp.API.pdb
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.csprojAssemblyReference.cache
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.csproj.CoreCompileInputs.cache
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.RazorAssemblyInfo.cache
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.RazorAssemblyInfo.cs
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.AssemblyInfoInputs.cache
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.AssemblyInfo.cs
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.RazorTargetAssemblyInfo.cache
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.dll
+C:\SocialMediaApp\SocialMediaApp.API\obj\Debug\netcoreapp2.2\SocialMediaApp.API.pdb
