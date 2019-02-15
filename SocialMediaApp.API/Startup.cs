@@ -29,6 +29,7 @@ namespace SocialMediaApp.API
         {
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddCors(); // Cross Origin Resource Sharing, CORS  - Security measure that controls which clients(Domains) can access our api
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +46,10 @@ namespace SocialMediaApp.API
             }
 
             // app.UseHttpsRedirection();
+
+            // The below CORS configuration is weak, security wise, allowing any HTTP origin, method, or header;
+            // but it will work for development instead of adding a secure CORS policy, which would take more time.
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()); //Allows us to talk to our angular app (localhost:4200)
             app.UseMvc();
         }
     }
